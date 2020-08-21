@@ -5,7 +5,7 @@ title: Tietorakenteet ja algoritmit <br> syksy 2020
 
 # Tietoa kurssista
 
-_Tietorakenteet ja algoritmit_ on tietojenkäsittelytieteen aineopintoihin kuuluva kurssi, joka muodostuu kahdesta 5 op laajuisesta osasuorituksesta. Kurssin aiheita ovat mm. järjestäminen, lista- ja joukkorakenteet, dynaaminen ohjelmointi sekä verkkoalgoritmit.
+_Tietorakenteet ja algoritmit_ on tietojenkäsittelytieteen aineopintokurssi, joka muodostuu kahdesta 5 op laajuisesta osasuorituksesta. Kurssin aiheita ovat mm. järjestäminen, lista- ja joukkorakenteet, dynaaminen ohjelmointi sekä verkkoalgoritmit.
 
 Syksyllä 2020 voit suorittaa kurssin verkkokurssina, jonka materiaali on tällä sivustolla. Kurssi suoritetaan ratkomalla automaattisesti palautettavia tehtäviä. Kurssi järjestetään samalla tavalla Helsingin yliopiston tutkinto-opiskelijoille ja Avoimen yliopiston opiskelijoille.
 
