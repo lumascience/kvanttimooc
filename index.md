@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tietorakenteet ja algoritmit
+title: Tietorakenteet ja algoritmit <br> syksy 2020
 ---
 
 # Tietoa kurssista
