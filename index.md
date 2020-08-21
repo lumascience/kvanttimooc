@@ -27,7 +27,7 @@ Ohjauksen järjestämistapa ja aikataulu ilmoitetaan myöhemmin. Kurssilla on my
 
 ## Suoritustapa
 
-Kumpikin kurssin osasuoritus muodostuu 7 viikosta tehtäviä. Suoritukseen vaaditaan, että ratkaiset joka viikko ainakin 5 tehtävää. Suorituksen arvosana määräytyy seuraavasti:
+Kumpikin kurssin osasuoritus muodostuu 7 viikosta tehtäviä. Kullakin viikolla on 8 tehtävää, ja kurssin suoritukseen vaaditaan, että ratkaiset joka viikko ainakin 5 tehtävää. Suorituksen arvosana määräytyy seuraavasti:
 
 * 35–39 tehtävää: arvosana 1
 * 40–43 tehtävää: arvosana 2
