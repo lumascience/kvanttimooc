@@ -21,7 +21,7 @@ Kurssin I-osan aloitusluento järjestetään Zoomissa ke 2.9. klo 14–16.
 
 Kurssin II-osan aloitusluento järjestetään Zoomissa ke 28.10. klo 14–16.
 
-Muilla viikoilla julkaistaan videomateriaalia, jossa on kurssikirjaa täydentävää tietoa.
+Muilla viikoilla julkaistaan videomateriaalia, joka antaa lisää näkökulmia kurssin aiheisiin.
 
 Ohjauksen järjestämistapa ja aikataulu ilmoitetaan myöhemmin. Kurssilla on myös [Telegram-kanava](https://t.me/tiratg), jossa voit keskustella muiden opiskelijoiden ja kurssin henkilökunnan kanssa.
 
