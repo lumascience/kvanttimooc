@@ -25,6 +25,11 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 * Vinkkejä ohjelmointiin [Java](java-vinkit.html) [Python](python-vinkit.html)
 * Video: Halkaisukohtien laskeminen O(n)-algoritmilla [Java](https://www.helsinki.fi/unitube/video/2a2a3c53-3ac0-4f97-9b7d-5dfcfb0cf47f) [Python](https://www.helsinki.fi/fi/unitube/video/0ed4d0f4-dd08-4463-9b91-6ca0768b790c)
 
+### Viikko 3
+
+* Video: Miten käyttää järjestämistä? [Java](https://www.helsinki.fi/unitube/video/49980dc2-9fa1-4fcc-bd7b-b72adf84f6bc) [Python](https://www.helsinki.fi/unitube/video/b8e4416b-add6-40e6-b5e1-9fa324744de4)
+* Video: Ahne algoritmi [Java](https://www.helsinki.fi/unitube/video/6950a7c6-0357-4a82-97ad-9a37bbe3d858) [Python](https://www.helsinki.fi/unitube/video/c314c356-3c82-4ebe-9c5c-1e711010c432)
+
 ## Muita kirjoja
 
 Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kurssin lisälukemistoksi.
