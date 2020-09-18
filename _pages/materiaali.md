@@ -17,6 +17,7 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 ### Viikko 1
 
 * Video: [Kurssin I-osan aloitusluento](https://www.helsinki.fi/fi/unitube/video/27cb1219-11f9-4350-bde0-31f1b9adda90)
+* Video: Shakkiongelman ratkaisu O(n<sup>4</sup>) -> O(1) [Python](https://www.helsinki.fi/fi/unitube/video/28564169-4a5a-4d02-8b5f-c838eb85c103)
 
 ### Viikko 2
 
