@@ -31,6 +31,12 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 * Video: Miten käyttää järjestämistä? [Java](https://www.helsinki.fi/unitube/video/49980dc2-9fa1-4fcc-bd7b-b72adf84f6bc) [Python](https://www.helsinki.fi/unitube/video/b8e4416b-add6-40e6-b5e1-9fa324744de4)
 * Video: Ahne algoritmi [Java](https://www.helsinki.fi/unitube/video/6950a7c6-0357-4a82-97ad-9a37bbe3d858) [Python](https://www.helsinki.fi/unitube/video/c314c356-3c82-4ebe-9c5c-1e711010c432)
 
+### Viikko 4
+
+* Video: Oman tietorakenteen tekeminen [Java](https://www.helsinki.fi/unitube/video/b50c5d64-c05e-4aa8-bb6c-ae92ecf147a7) [Python](https://www.helsinki.fi/unitube/video/aed1fa60-9e92-49dc-89fa-6e1d339535c7)
+* Video: Älä tee näin luokkaa [Python](https://www.helsinki.fi/unitube/video/c37f67a7-22a3-49bf-befb-07ccda673d7b)
+* Video: Vierekkäisten poistaminen [Java](https://www.helsinki.fi/unitube/video/3388edfe-3804-4ebc-b60b-bfe04f31b1f6) [Python](https://www.helsinki.fi/unitube/video/2423c7ee-d08f-4e5f-b02e-ab2e8ff35cb8)
+
 ## Muita kirjoja
 
 Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kurssin lisälukemistoksi.
