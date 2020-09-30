@@ -38,6 +38,12 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 * Video: Vierekkäisten poistaminen [Java](https://www.helsinki.fi/unitube/video/3388edfe-3804-4ebc-b60b-bfe04f31b1f6) [Python](https://www.helsinki.fi/unitube/video/2423c7ee-d08f-4e5f-b02e-ab2e8ff35cb8)
 * Video: Miten tietää, että algoritmi toimii? [Python](https://www.helsinki.fi/fi/unitube/video/a2774f9e-37e3-4e68-88e7-41c3cf4c0e25)
 
+### Viikko 5
+
+* Video: Hajautustaulu tietorakenteessa [Java](https://www.helsinki.fi/unitube/video/c35607e3-8e68-4911-8898-0ce71372d89c) [Python](https://www.helsinki.fi/unitube/video/7c809b28-2220-43c2-bf53-8f96eef8c131)
+* Video: Samat luvut alilistoissa [Java](https://www.helsinki.fi/unitube/video/08829fa0-73ac-4d3a-9aa8-7f3bf8789622) [Python](https://www.helsinki.fi/unitube/video/7a552dc8-30d9-482a-a69e-f51017221ede)
+* Video: Javan sudenkuoppia [Java](https://www.helsinki.fi/unitube/video/6820666d-654c-4c85-ab06-61c0c2c630cf)
+
 ## Muita kirjoja
 
 Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kurssin lisälukemistoksi.
