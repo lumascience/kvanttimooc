@@ -45,6 +45,10 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 * Video: Samat luvut alilistoissa [Java](https://www.helsinki.fi/unitube/video/08829fa0-73ac-4d3a-9aa8-7f3bf8789622) [Python](https://www.helsinki.fi/unitube/video/7a552dc8-30d9-482a-a69e-f51017221ede)
 * Video: Javan sudenkuoppia [Java](https://www.helsinki.fi/unitube/video/6820666d-654c-4c85-ab06-61c0c2c630cf)
 
+### Viikko 6
+
+* Binääripuun toteutus [Java](java-binaaripuu.html) [Python](python-binaaripuu.html)
+
 ## Muita kirjoja
 
 Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kurssin lisälukemistoksi.
