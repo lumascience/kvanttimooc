@@ -48,7 +48,7 @@ public class DrawTree extends JFrame {
             space = count(node.right.left);
             newX = x+(space+1)*30; newY = y+40;
             g.drawLine(x,y,newX,newY);
-            drawTree(node.left,newX,newY,g);
+            drawTree(node.right,newX,newY,g);
         }
     }
 
