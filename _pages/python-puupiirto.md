@@ -25,12 +25,12 @@ def draw_tree(node,x,y):
         return
     goto(x,y)
     stamp()
-    space = count(node.left.right) if node.left else 0
-    draw_tree(node.left,x-(space+1)*30,y-40)
-    goto(x,y)
-    space = count(node.right.left) if node.right else 0
-    draw_tree(node.right,x+(space+1)*30,y-40)
-    goto(x,y)
+    if node.left:
+        draw_tree(node.left,x-(count(node.left.right)+1)*30,y-40)
+        goto(x,y)
+    if node.right:
+        draw_tree(node.right,x+(count(node.right.left)+1)*30,y-40)
+        goto(x,y)
 
 # tässä on binääripuu, joka halutaan piirtää
 tree = Node(
@@ -40,5 +40,5 @@ tree = Node(
 
 shape("circle")
 draw_tree(tree,0,0)
-done()                                                                    
+done()
 ```
