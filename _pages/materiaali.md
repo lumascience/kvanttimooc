@@ -48,6 +48,7 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 ### Viikko 6
 
 * Binääripuun toteutus [Java](java-binaaripuu.html) [Python](python-binaaripuu.html)
+* Binääripuun piirtäminen [Java](java-puupiirto.html) [Python](python-puupiirto.html)
 
 ## Muita kirjoja
 
