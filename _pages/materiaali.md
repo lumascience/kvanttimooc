@@ -49,6 +49,8 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 
 * Binääripuun toteutus [Java](java-binaaripuu.html) [Python](python-binaaripuu.html)
 * Binääripuun piirtäminen [Java](java-puupiirto.html) [Python](python-puupiirto.html)
+* Video: Binääripuu ja rekursio [Java](https://www.helsinki.fi/unitube/video/98f5975f-2139-458a-841f-c34630b472b1) [Python](https://www.helsinki.fi/unitube/video/2a970451-d5dc-4341-8337-5cabbdf86e6c)
+* Video: Binomikerroin algoritmeissa [Python & Java](https://www.helsinki.fi/unitube/video/4e389a3b-ac06-4cb1-9512-430d440b5819)
 
 ## Muita kirjoja
 
