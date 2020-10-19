@@ -58,6 +58,7 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 * Video: Keon järjestys [Java](https://www.helsinki.fi/unitube/video/c1b4098f-8a1b-4117-a9bb-957041bb9c0e) [Python](https://www.helsinki.fi/unitube/video/5fadb765-ca8d-4b41-914c-55dd006fd2f3)
 * Video: Kekoa käyttävä algoritmi [Java](https://www.helsinki.fi/unitube/video/afd584f4-6af4-4362-8bd7-ffce95d9e765) [Python](https://www.helsinki.fi/unitube/video/15c28307-c439-40f4-9e2c-e15aa4afb0b6)
 * Video: Miten pärjätä ilman binäärihakupuuta? [Java & Python](https://www.helsinki.fi/unitube/video/1c1a73b4-e1ef-47e4-b2ab-e21f841a84d2)
+* Video: Etäisyyksien laskeminen [Ideointi](https://www.helsinki.fi/fi/unitube/video/0ee88dfb-e551-4f56-8f9e-c6453d69a482)
 
 ## Muita kirjoja
 
