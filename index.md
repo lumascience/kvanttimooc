@@ -19,7 +19,7 @@ Jos suoritat kurssin Avoimen yliopiston kautta, saat ohjeet kurssisuorituksen re
 
 Kurssin I-osan aloitusluento järjestetään Zoomissa ke 2.9. klo 14–16. [Luentotallenne](https://www.helsinki.fi/fi/unitube/video/27cb1219-11f9-4350-bde0-31f1b9adda90)
 
-Kurssin II-osan aloitusluento järjestetään Zoomissa ke 28.10. klo 14–16.
+Kurssin II-osan aloitusluento järjestetään Zoomissa ke 28.10. klo 14–16. [Zoom-linkki](https://helsinki.zoom.us/j/62336003411?pwd=am16N0oyeDVpZzN1ckRzOGFmbWRpZz09)
 
 Muilla viikoilla julkaistaan videomateriaalia, joka antaa lisää näkökulmia kurssin aiheisiin.
 
