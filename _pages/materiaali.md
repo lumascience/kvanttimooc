@@ -60,6 +60,10 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 * Video: Miten pärjätä ilman binäärihakupuuta? [Java & Python](https://www.helsinki.fi/unitube/video/1c1a73b4-e1ef-47e4-b2ab-e21f841a84d2)
 * Video: Etäisyyksien laskeminen [Ideointi](https://www.helsinki.fi/fi/unitube/video/0ee88dfb-e551-4f56-8f9e-c6453d69a482)
 
+### Viikko 8
+
+* Video: Kurssin I-osan aloitusluento [Tallenne](https://www.helsinki.fi/fi/unitube/video/738922d5-afca-438a-86b2-c4c8726095a3)
+
 ## Muita kirjoja
 
 Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kurssin lisälukemistoksi.
