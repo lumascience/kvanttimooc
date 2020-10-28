@@ -33,7 +33,7 @@ Kurssin kokonaisarvosana:
 
 * Minkä arvosanan annat kurssille kokonaisuutena? 4.45
 
-## Tekstipalaute
+## Sanallinen palaute
 
 ### Mikä kurssilla oli hyvää?
 
