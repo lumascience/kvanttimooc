@@ -5,8 +5,6 @@ hidden: true
 
 # Kurssin I-osan tulokset
 
-(Tulokset ovat vielä alustavat)
-
 Kurssille osallistui 408 opiskelijaa ja kurssin suoritti hyväksytysti 235 opiskelijaa (57.6 %).
 
 ## Arvosanajakauma
