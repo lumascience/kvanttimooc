@@ -65,6 +65,11 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 * Video: Kurssin II-osan aloitusluento [Tallenne](https://www.helsinki.fi/fi/unitube/video/738922d5-afca-438a-86b2-c4c8726095a3)
 * Video: Esitystapojen laskeminen [Ideointi](https://www.helsinki.fi/fi/unitube/video/fb33584e-da29-4f09-a8e9-6d596261763e)
 
+### Viikko 9
+
+* Video: Summa kolikoista [Java](https://www.helsinki.fi/unitube/video/052adc3e-8359-4b05-9ad1-fccf06ff15e1) [Python](https://www.helsinki.fi/unitube/video/a532c246-2348-4c1e-9954-a900a1cce30b)
+* Video: Reitit ruudukossa [Java](https://www.helsinki.fi/unitube/video/4bb0f7f4-e575-447e-aae9-b9e8abf18463) [Python](https://www.helsinki.fi/unitube/video/55957a06-454f-44c7-bc9d-c52e463f9956)
+
 ## Muita kirjoja
 
 Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kurssin lisälukemistoksi.
