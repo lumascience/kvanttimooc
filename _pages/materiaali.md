@@ -70,6 +70,11 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 * Video: Summa kolikoista [Java](https://www.helsinki.fi/unitube/video/052adc3e-8359-4b05-9ad1-fccf06ff15e1) [Python](https://www.helsinki.fi/unitube/video/a532c246-2348-4c1e-9954-a900a1cce30b)
 * Video: Reitit ruudukossa [Java](https://www.helsinki.fi/unitube/video/4bb0f7f4-e575-447e-aae9-b9e8abf18463) [Python](https://www.helsinki.fi/unitube/video/55957a06-454f-44c7-bc9d-c52e463f9956)
 
+### Viikko 10
+
+* Video: Verkon käsittely [Java](https://www.helsinki.fi/unitube/video/411ab79c-0eb1-49b8-bb2e-66af4e74c92b) [Python](https://www.helsinki.fi/unitube/video/4e1a8382-9c0c-48f2-a497-4de82cb12ad7)
+* Video: Ruudukon käsittely [Java](https://www.helsinki.fi/unitube/video/45d00468-7a6a-4862-ab50-5379eedd5b5d) [Python](https://www.helsinki.fi/unitube/video/ffe9e56a-f1d3-4ba7-a9d5-bd663d4079f7)
+
 ## Muita kirjoja
 
 Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kurssin lisälukemistoksi.
