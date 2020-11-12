@@ -69,6 +69,7 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 
 * Video: Summa kolikoista [Java](https://www.helsinki.fi/unitube/video/052adc3e-8359-4b05-9ad1-fccf06ff15e1) [Python](https://www.helsinki.fi/unitube/video/a532c246-2348-4c1e-9954-a900a1cce30b)
 * Video: Reitit ruudukossa [Java](https://www.helsinki.fi/unitube/video/4bb0f7f4-e575-447e-aae9-b9e8abf18463) [Python](https://www.helsinki.fi/unitube/video/55957a06-454f-44c7-bc9d-c52e463f9956)
+* Video: Merkkijonon tyhjennys [Java](https://www.helsinki.fi/unitube/video/99a8857d-a866-4412-adfa-ff8c85917932) [Python](https://www.helsinki.fi/unitube/video/295bd36d-46a4-4261-9cc1-1963cd771819)
 
 ### Viikko 10
 
