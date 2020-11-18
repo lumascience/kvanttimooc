@@ -77,6 +77,12 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 * Video: Ruudukon käsittely [Java](https://www.helsinki.fi/unitube/video/45d00468-7a6a-4862-ab50-5379eedd5b5d) [Python](https://www.helsinki.fi/unitube/video/ffe9e56a-f1d3-4ba7-a9d5-bd663d4079f7)
 * Video: Laatikko labyrintissa [Ideointi](https://www.helsinki.fi/fi/unitube/video/15d1a1a6-0a43-4ea9-bfc5-232d24dd1fc8)
 
+### Viikko 11
+
+* Video: Lyhimmän polun haku [Java](https://www.helsinki.fi/unitube/video/a6b8d3fe-5809-4cfd-9a37-3b529f4b23c1) [Python](https://www.helsinki.fi/unitube/video/bc1c10f8-8bdc-4522-87df-41b8651c8374)
+* Video: Ongelman mallinnus verkkona [Ideointi](https://www.helsinki.fi/fi/unitube/video/c9a9499f-27aa-40f9-bd8d-4acfb19b1a51)
+
+
 ## Muita kirjoja
 
 Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kurssin lisälukemistoksi.
