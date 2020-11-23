@@ -17,7 +17,7 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 ### Viikko 1
 
 * Video: Kurssin I-osan aloitusluento [Tallenne](https://www.helsinki.fi/fi/unitube/video/27cb1219-11f9-4350-bde0-31f1b9adda90)
-* Video: Shakkiongelman ratkaisu O(n<sup>4</sup>) -> O(1) [Python](https://www.helsinki.fi/fi/unitube/video/28564169-4a5a-4d02-8b5f-c838eb85c103)
+* Video: Shakkiongelman ratkaisu O(n<sup>4</sup>) -> O(1) [Analyysi](https://www.helsinki.fi/fi/unitube/video/28564169-4a5a-4d02-8b5f-c838eb85c103)
 
 ### Viikko 2
 
@@ -44,7 +44,7 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 * Video: Hajautustaulu tietorakenteessa [Java](https://www.helsinki.fi/unitube/video/c35607e3-8e68-4911-8898-0ce71372d89c) [Python](https://www.helsinki.fi/unitube/video/7c809b28-2220-43c2-bf53-8f96eef8c131)
 * Video: Samat luvut alilistoissa [Java](https://www.helsinki.fi/unitube/video/08829fa0-73ac-4d3a-9aa8-7f3bf8789622) [Python](https://www.helsinki.fi/unitube/video/7a552dc8-30d9-482a-a69e-f51017221ede)
 * Video: Javan sudenkuoppia [Java](https://www.helsinki.fi/unitube/video/6820666d-654c-4c85-ab06-61c0c2c630cf)
-* Video: Miten ABC-tasapaino toimii? [Python](https://www.helsinki.fi/unitube/video/6842424d-b338-463f-a543-0b412910dd75)
+* Video: Miten ABC-tasapaino toimii? [Analyysi](https://www.helsinki.fi/unitube/video/6842424d-b338-463f-a543-0b412910dd75)
 
 ### Viikko 6
 
@@ -76,6 +76,7 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 * Video: Verkon käsittely [Java](https://www.helsinki.fi/unitube/video/411ab79c-0eb1-49b8-bb2e-66af4e74c92b) [Python](https://www.helsinki.fi/unitube/video/4e1a8382-9c0c-48f2-a497-4de82cb12ad7)
 * Video: Ruudukon käsittely [Java](https://www.helsinki.fi/unitube/video/45d00468-7a6a-4862-ab50-5379eedd5b5d) [Python](https://www.helsinki.fi/unitube/video/ffe9e56a-f1d3-4ba7-a9d5-bd663d4079f7)
 * Video: Laatikko labyrintissa [Ideointi](https://www.helsinki.fi/fi/unitube/video/15d1a1a6-0a43-4ea9-bfc5-232d24dd1fc8)
+* Video: Pinojärjestämisen paluu [Analyysi](https://www.helsinki.fi/fi/unitube/video/9cd951c5-9e73-4448-a89f-9291d8e15654)
 
 ### Viikko 11
 
