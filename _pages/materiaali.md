@@ -83,6 +83,10 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 * Video: Lyhimmän polun haku [Java](https://www.helsinki.fi/unitube/video/a6b8d3fe-5809-4cfd-9a37-3b529f4b23c1) [Python](https://www.helsinki.fi/unitube/video/bc1c10f8-8bdc-4522-87df-41b8651c8374)
 * Video: Ongelman mallinnus verkkona [Ideointi](https://www.helsinki.fi/fi/unitube/video/c9a9499f-27aa-40f9-bd8d-4acfb19b1a51)
 
+### Viikko 12
+
+* Video: Solmujen nimet [Java](https://www.helsinki.fi/unitube/video/44bf4230-ef5e-4a1b-8329-da81ae6fbbd2) [Python](https://www.helsinki.fi/unitube/video/05a792ae-dbb4-460f-bb85-c1e200f7af09)
+* Video: Polkujen laskeminen [Java](https://www.helsinki.fi/unitube/video/a5cb42b5-c303-4d29-aa5b-18c5d7f48e40) [Python](https://www.helsinki.fi/unitube/video/ce683da1-3620-4ec9-987b-7d3965b77be8)
 
 ## Muita kirjoja
 
