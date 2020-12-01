@@ -87,6 +87,7 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 
 * Video: Solmujen nimet [Java](https://www.helsinki.fi/unitube/video/44bf4230-ef5e-4a1b-8329-da81ae6fbbd2) [Python](https://www.helsinki.fi/unitube/video/05a792ae-dbb4-460f-bb85-c1e200f7af09)
 * Video: Polkujen laskeminen [Java](https://www.helsinki.fi/unitube/video/a5cb42b5-c303-4d29-aa5b-18c5d7f48e40) [Python](https://www.helsinki.fi/unitube/video/ce683da1-3620-4ec9-987b-7d3965b77be8)
+* Video: Pelien pelaaminen [Ideointi](https://www.helsinki.fi/fi/unitube/video/a9f9033a-f3c2-4660-9ece-9781c2f6b830)
 
 ## Muita kirjoja
 
