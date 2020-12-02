@@ -89,6 +89,11 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 * Video: Polkujen laskeminen [Java](https://www.helsinki.fi/unitube/video/a5cb42b5-c303-4d29-aa5b-18c5d7f48e40) [Python](https://www.helsinki.fi/unitube/video/ce683da1-3620-4ec9-987b-7d3965b77be8)
 * Video: Pelien pelaaminen [Ideointi](https://www.helsinki.fi/fi/unitube/video/a9f9033a-f3c2-4660-9ece-9781c2f6b830)
 
+### Viikko 13
+
+* Video: Union-find-algoritmi [Java](https://www.helsinki.fi/unitube/video/da45a7de-e7be-4e3f-99b1-889ed1b20278) [Python](https://www.helsinki.fi/unitube/video/2b9ebb14-66ae-4fa8-99fc-9107b513097c)
+* Video: Pienin ja suurin ratkaisu [Ideointi](https://www.helsinki.fi/fi/unitube/video/2f5e69e9-d8af-4213-823d-f2514fe7cfbe)
+
 ## Muita kirjoja
 
 Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kurssin lisälukemistoksi.
