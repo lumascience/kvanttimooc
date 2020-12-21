@@ -13,6 +13,6 @@ Viikoittaiset ohjausajat 2. periodilla ovat:
 * tiistaisin 12–14 (Hannu)
 * torstaisin 13–16 (Pinja)
 
-Ohjausta järjestetään 2. periodilla välillä 26.10.–13.12.
+Ohjausta järjestetään 2. periodilla välillä 26.10.–20.12.
 
 * [Linkki ohjaukseen](https://helsinki.zoom.us/j/64842211733?pwd=ZVdOK3J6bFJFYktKU2V5NWRFek1RZz09)

@@ -17,7 +17,7 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 ### Viikko 1
 
 * Video: Kurssin I-osan aloitusluento [Tallenne](https://www.helsinki.fi/fi/unitube/video/27cb1219-11f9-4350-bde0-31f1b9adda90)
-* Video: Shakkiongelman ratkaisu O(n<sup>4</sup>) -> O(1) [Python](https://www.helsinki.fi/fi/unitube/video/28564169-4a5a-4d02-8b5f-c838eb85c103)
+* Video: Shakkiongelman ratkaisu O(n<sup>4</sup>) -> O(1) [Analyysi](https://www.helsinki.fi/fi/unitube/video/28564169-4a5a-4d02-8b5f-c838eb85c103)
 
 ### Viikko 2
 
@@ -44,7 +44,7 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 * Video: Hajautustaulu tietorakenteessa [Java](https://www.helsinki.fi/unitube/video/c35607e3-8e68-4911-8898-0ce71372d89c) [Python](https://www.helsinki.fi/unitube/video/7c809b28-2220-43c2-bf53-8f96eef8c131)
 * Video: Samat luvut alilistoissa [Java](https://www.helsinki.fi/unitube/video/08829fa0-73ac-4d3a-9aa8-7f3bf8789622) [Python](https://www.helsinki.fi/unitube/video/7a552dc8-30d9-482a-a69e-f51017221ede)
 * Video: Javan sudenkuoppia [Java](https://www.helsinki.fi/unitube/video/6820666d-654c-4c85-ab06-61c0c2c630cf)
-* Video: Miten ABC-tasapaino toimii? [Python](https://www.helsinki.fi/unitube/video/6842424d-b338-463f-a543-0b412910dd75)
+* Video: Miten ABC-tasapaino toimii? [Analyysi](https://www.helsinki.fi/unitube/video/6842424d-b338-463f-a543-0b412910dd75)
 
 ### Viikko 6
 
@@ -69,11 +69,35 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 
 * Video: Summa kolikoista [Java](https://www.helsinki.fi/unitube/video/052adc3e-8359-4b05-9ad1-fccf06ff15e1) [Python](https://www.helsinki.fi/unitube/video/a532c246-2348-4c1e-9954-a900a1cce30b)
 * Video: Reitit ruudukossa [Java](https://www.helsinki.fi/unitube/video/4bb0f7f4-e575-447e-aae9-b9e8abf18463) [Python](https://www.helsinki.fi/unitube/video/55957a06-454f-44c7-bc9d-c52e463f9956)
+* Video: Merkkijonon tyhjennys [Java](https://www.helsinki.fi/unitube/video/99a8857d-a866-4412-adfa-ff8c85917932) [Python](https://www.helsinki.fi/unitube/video/295bd36d-46a4-4261-9cc1-1963cd771819)
 
 ### Viikko 10
 
 * Video: Verkon käsittely [Java](https://www.helsinki.fi/unitube/video/411ab79c-0eb1-49b8-bb2e-66af4e74c92b) [Python](https://www.helsinki.fi/unitube/video/4e1a8382-9c0c-48f2-a497-4de82cb12ad7)
 * Video: Ruudukon käsittely [Java](https://www.helsinki.fi/unitube/video/45d00468-7a6a-4862-ab50-5379eedd5b5d) [Python](https://www.helsinki.fi/unitube/video/ffe9e56a-f1d3-4ba7-a9d5-bd663d4079f7)
+* Video: Laatikko labyrintissa [Ideointi](https://www.helsinki.fi/fi/unitube/video/15d1a1a6-0a43-4ea9-bfc5-232d24dd1fc8)
+* Video: Pinojärjestämisen paluu [Analyysi](https://www.helsinki.fi/fi/unitube/video/9cd951c5-9e73-4448-a89f-9291d8e15654)
+
+### Viikko 11
+
+* Video: Lyhimmän polun haku [Java](https://www.helsinki.fi/unitube/video/a6b8d3fe-5809-4cfd-9a37-3b529f4b23c1) [Python](https://www.helsinki.fi/unitube/video/bc1c10f8-8bdc-4522-87df-41b8651c8374)
+* Video: Ongelman mallinnus verkkona [Ideointi](https://www.helsinki.fi/fi/unitube/video/c9a9499f-27aa-40f9-bd8d-4acfb19b1a51)
+
+### Viikko 12
+
+* Video: Solmujen nimet [Java](https://www.helsinki.fi/unitube/video/44bf4230-ef5e-4a1b-8329-da81ae6fbbd2) [Python](https://www.helsinki.fi/unitube/video/05a792ae-dbb4-460f-bb85-c1e200f7af09)
+* Video: Polkujen laskeminen [Java](https://www.helsinki.fi/unitube/video/a5cb42b5-c303-4d29-aa5b-18c5d7f48e40) [Python](https://www.helsinki.fi/unitube/video/ce683da1-3620-4ec9-987b-7d3965b77be8)
+* Video: Pelien pelaaminen [Ideointi](https://www.helsinki.fi/fi/unitube/video/a9f9033a-f3c2-4660-9ece-9781c2f6b830)
+
+### Viikko 13
+
+* Video: Union-find-algoritmi [Java](https://www.helsinki.fi/unitube/video/da45a7de-e7be-4e3f-99b1-889ed1b20278) [Python](https://www.helsinki.fi/unitube/video/2b9ebb14-66ae-4fa8-99fc-9107b513097c)
+* Video: Pienin ja suurin ratkaisu [Ideointi](https://www.helsinki.fi/fi/unitube/video/2f5e69e9-d8af-4213-823d-f2514fe7cfbe)
+
+### Viikko 14
+
+* Video: Virtauksen laskeminen [Java](https://www.helsinki.fi/unitube/video/d49289a3-dc4b-4fb2-8b83-d6ca7c20bcce) [Python](https://www.helsinki.fi/unitube/video/d641fa1c-9d31-4c42-87d4-7763198fab6f)
+* Video: Solmun virtauksen rajoitus [Ideointi](https://www.helsinki.fi/fi/unitube/video/6f4c508e-c219-4118-8a2c-2708e3010040)
 
 ## Muita kirjoja
 
