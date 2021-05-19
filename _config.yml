@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tietorakenteet ja algoritmit syksy 2020
-baseurl: "/syksy-2020" # the subpath of your site, e.g. /blog
-url: "https://hy-tira.github.io/syksy-2020/" # the base hostname & protocol for your site, e.g. http://example.com
+title: Kvantti-MOOC
+baseurl: "/kvanttimooc" # the subpath of your site, e.g. /blog
+url: "https://lumascience.github.io/kvanttimooc/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 plugins:
