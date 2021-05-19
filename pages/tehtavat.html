@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <title>
+    
+    Tehtävät - Kvantti-MOOC
+    
+  </title>
+  <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        CommonHTML: {
+          scale: 87
+        }
+      });
+      </script>
+  <script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+  <link rel='stylesheet' type='text/css' media='screen' href=/kvanttimooc/assets/css/main.css>
+  <link rel='stylesheet' type='text/css' media='screen' href=/kvanttimooc/assets/css/syntax.css>
+
+  <script src=/kvanttimooc/assets/js/main.js></script>
+
+</head>
+
+
+<body id="chapter">
+    
+<nav class="no-nav" id="side-nav" >
+    <button id="hide" onclick="hideSideNav()"> &#x2715;</button>
+    <button id="show" onclick="showSideNav()"> </button>
+    <h2>Kvantti-MOOC</h2>
+    
+    <ol>
+
+        <li class="side-nav-obj" id="indexnav"><a href=/kvanttimooc/index>Etusivu </a></li>
+        
+        
+        
+        <li class="side-nav-obj" id="Materiaalinav"><a href="/kvanttimooc/pages/materiaali.html">Materiaali</a></li>
+        
+        
+        
+        <li class="side-nav-obj" id="Tehtävätnav"><a href="/kvanttimooc/pages/tehtavat.html">Tehtävät</a></li>
+        
+        
+        <br>
+        
+    </ol>
+</nav>
+    <div class="page-content">
+        <div class="content">
+    <div class="table-of-content" id="tof" style="display: none;">
+    <ul>
+        
+    </ul>
+</div>
+
+    <h1 id="tehtävät">Tehtävät</h1>
+
+<h2 id="tehtävä-1">Tehtävä 1</h2>
+
+<p>Millä todennäköisyydellä ohjelma antaa tuloksen 1?</p>
+
+<form id="task1">
+<input name="answer" type="radio" value="0" /> 0 % <br />
+<input name="answer" type="radio" value="25" /> 25 % <br />
+<input name="answer" type="radio" value="50" /> 50 % <br />
+<input name="answer" type="radio" value="75" /> 75 % <br />
+<input name="answer" type="radio" value="100" /> 100 % <br />
+</form>
+<p><button onclick="test()">Lähetä vastaus</button></p>
+
+<script>
+function test() {
+    var answer = document.getElementById("task1").elements["answer"].value;
+    if (answer == 50) {
+        alert("Oikein!");
+    } else {
+        alert("Väärin!");
+    }
+}
+</script>
+
+
+</div>
+        <div class="footer">
+    <img src=/kvanttimooc/assets/img/HY_logo.png>
+    </div>
+    </div>
+</body>
+
+</html>
